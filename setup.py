@@ -5,7 +5,7 @@ setup(
     version='0.1.0',
     packages=find_packages(),
     description='Low-level, native Windows system access wrappers for Python administration scripts.',
-    author='AI Assistant',
+    author='Lethudu70',
     license='MIT',
     
     # Required dependency for service management functionalities
@@ -24,3 +24,4 @@ setup(
     ],
     python_requires='>=3.6',
 )
+
